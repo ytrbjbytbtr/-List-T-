@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gF3zz1O0idF/ATlhLO+SS+iNiWZA2VRzBW9u0ybpXEbuJ4amv/UOCmff/bnLUc7AbzVdJ1jAkZR7+yZQ85x1GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79216\\source\\repos\\ConsoleApp16\\ConsoleApp16\\ConsoleApp16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79216\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
